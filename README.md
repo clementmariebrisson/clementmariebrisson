@@ -10,4 +10,4 @@
 - 💞️ I’m collaborating with <a href="https://github.com/AlexisGuillotin">@AlexisGuillotin</a> and <a href="https://github.com/PierreBrunier">@PierreBrunier</a>
 - 📫 Reach me at clement.marie-brisson2.auditeur@lecnam.net
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=clementmariebrisson&layout=compact&hide=HTML,Jupyter%20Notebook](https://github-readme-stats.vercel.app/api/top-langs/?username=clementmariebrisson&layout=compact&hide=HTML,Jupyter%20Notebook)" alt="clementmariebrisson" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementmariebrisson&layout=compact&hide=HTML,Jupyter%20Notebook" alt="clementmariebrisson" /></p>
