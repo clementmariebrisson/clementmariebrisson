@@ -10,4 +10,4 @@
 - 💞️ I’m collaborating with <a href="https://github.com/AlexisGuillotin">@AlexisGuillotin</a> and <a href="https://github.com/PierreBrunier">@PierreBrunier</a>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-ceat-7mefn416s.vercel.app/api/top-langs?username=clementmariebrisson&layout=donut&hide=HTML%2CJupyter%20Notebook&exclude_repo=compodoc-crypto-coin-scanner&theme=tokyonight" alt="clementmariebrisson" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-ceat-7rchbb8wu.vercel.app/api/top-langs?username=clementmariebrisson&layout=donut&hide=HTML%2CJupyter%20Notebook&exclude_repo=compodoc-crypto-coin-scanner&theme=tokyonight" alt="clementmariebrisson" /></p>
